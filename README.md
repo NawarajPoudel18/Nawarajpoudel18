@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript, c, c++ and php**
 
-- 📫 How to reach me **Nawarajpoudel18@gmail.com**
+- 📫 How to reach me **bictenawaraj@gmail.com**
 
 - ⚡ Fun fact **I can also do public speaking with a proper leadership skills**
 
