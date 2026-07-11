@@ -1,46 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nawaraj%20Poudel&reversal=false&fontColor=0000000&fontAlignY=45&fontAlign=50">
 <h1 align="center">Hi 👋, I'm Nawaraj Poudel</h1>
-<h3 align="center">A passionate student and to be developer from Nepal</h3>
+<h3 align="center">Frontend Developer</h3>
 
-## 🌟 About Me
-- 🎓 I am currently studying at **Tribhuvan University**  
-- 🏫 Campus: **Mahakavi Devkota Campus, Sunwal**  
-- 🌱 I’m learning and exploring new technologies every day  
-- 🌐 I have experience in **Web Hosting & Internet Technologies**  
-- 🎯 Goal: To become a professional developer and build impactful projects  
+<p align="center">
+Tech Enthusiast &nbsp;·&nbsp; Problem Solver &nbsp;·&nbsp; Lifelong Learner
+</p>
 
----
+<p align="center">
+I'm a BICTE student passionate about building modern websites and mobile applications.
+I enjoy learning new technologies through real-world projects, and my long-term goal
+is to become a skilled Full Stack Developer.
+</p>
 
-## 🛠️ Skills
-- 💡 Programming Languages:
-  - ⚙️ C
-  - ⚙️ C++
-  - ⚙️ Python
-- 🌐 Web Development:
-  - 🧱 HTML  
-  - 🎨 CSS  
-  - ⚡ JavaScript  
+<br/>
 
----
+## 🔗 Connect
 
-## 🎓 Education
-- 📘 **Tribhuvan University**  
-- 🏫 **Mahakavi Devkota Campus, Sunwal**  
+- 🌐 Portfolio: [PASTE PORTFOLIO URL]
+- 💼 LinkedIn: [PASTE LINKEDIN URL]
+- 📘 Facebook: [PASTE FACEBOOK URL]
 
----
+<br/>
 
-## 🚀 Projects
-- 🔨 **Coming Soon...**  
+## 🛠️ Tech Stack
 
----
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
 
-## 📬 Contact Me
-- 📧 Email: **bictenawaraj@gmail.com**  
+**Tools:** Git · VS Code · Linux · Ubuntu · MySQL · Adobe Illustrator
 
----
+**Currently learning:** React
 
-<h3 align="center" style="color:#4CAF50;">🌿 Keep Learning | Keep Growing 🌿</h3>
+<br/>
 
----
+## 🎯 Currently
 
-⭐ *Thanks for visiting my profile!
+- **Goal:** Build products used by thousands
+- **Project:** Diagram Editor
+- **Fun fact:** I enjoy solving real-world problems with code
+
+<br/>
+
+## 📌 Featured Repositories
+
+- _add your first featured repo here_
+- _add your second featured repo here_
+- _add your third featured repo here_
+
+<br/>
+
+<!-- =====================================================================
+     OPTIONAL — uncomment individually if wanted. Not enabled by default.
+     ===================================================================== -->
+
+<!--
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NawarajPoudel18&show_icons=true&theme=dark)
+-->
+
+<!--
+## Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NawarajPoudel18&theme=dark)
+-->
+
+<!--
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NawarajPoudel18&theme=dark)
+-->
+
+<!--
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=NawarajPoudel18&theme=darkhub)
+-->
+
+<!--
+## Visitor Count
+![Visitors](https://komarev.com/ghpvc/?username=NawarajPoudel18)
+-->
